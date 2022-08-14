@@ -3,6 +3,11 @@
 </h1>
 <h3 align="center">A Software Developer from Rosario, Santa Fe, Argentina</h3>
 
+<p>
+  <img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=fyunes&show_icons=true&theme=tokyonight&%20%20%20%20%20%20include_all_commits=true" />
+  <img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyunes&layout=compact&theme=tokyonight" />
+</p>
+
 <p align='center'>
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
