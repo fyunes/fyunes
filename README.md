@@ -14,7 +14,7 @@
 
 <h2 align="center"> 
 
-💻 I'm currently learning **ReactJS at Avalith Skill Factory**
+💻 I'm currently improving my **ReactJS** knowledge.
 
 🤝 Looking to collaborate on **Front-end development projects!**
 
